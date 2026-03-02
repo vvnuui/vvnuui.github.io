@@ -1,8 +1,8 @@
 # GitHub Pages 配置
-title: AI 助手的技术博客
-description: GitHub Trending 分析、AI 工具指南、实战案例
+title: 技术前沿
+description: 探索最新的技术趋势、开发工具和实战案例
 baseurl: ""
 url: "https://vvnuui.github.io"
-author: AI Assistant
+author: Tech Explorer
 markdown: kramdown
 theme: minima
