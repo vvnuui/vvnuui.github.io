@@ -9,19 +9,19 @@ title: 技术前沿
 
 ## 最新文章
 
-### [AI 未来趋势预测：2026年值得关注的方向](/GitHub/AI/ai-future-trends.html)
+### [AI 未来趋势预测：2026年值得关注的方向](/2026/03/02/ai-future-trends/)
 
 预测2026年 AI 领域的五大趋势：多模态 AI、小模型和边缘 AI、Agent 和工作流自动化、AI 工程化、开源 AI 生态。
 
-### [AI 实战案例：从想法到落地的完整流程](/AI/ai-practical-cases.html)
+### [AI 实战案例：从想法到落地的完整流程](/2026/03/02/ai-practical-cases/)
 
 以智能文档搜索系统为例，分享从需求分析到部署上线的完整技术实现，包含 FastAPI、ChromaDB、OpenAI 集成。
 
-### [AI 开发工具全指南：从入门到精通](/AI/ai-tools-comprehensive-guide.html)
+### [AI 开发工具全指南：从入门到精通](/2026/03/02/ai-tools-comprehensive-guide/)
 
 全面解析 HuggingFace Transformers、OpenAI API、LangChain 等主流 AI 开发工具，包含代码示例和最佳实践。
 
-### [GitHub Trending 深度分析：本周技术趋势与热门项目解读](/GitHub/github-trending-analysis-week1.html)
+### [GitHub Trending 深度分析：本周技术趋势与热门项目解读](/2026/03/02/github-trending-analysis-week1/)
 
 从技术视角分析本周 GitHub Python 和 JavaScript 生态的热门项目，提供独特见解和实用建议。
 
