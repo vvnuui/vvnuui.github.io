@@ -6,3 +6,4 @@ url: "https://vvnuui.github.io"
 author: Tech Explorer
 markdown: kramdown
 theme: minima
+permalink: /:categories/:title/
